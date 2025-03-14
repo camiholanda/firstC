@@ -13,5 +13,4 @@ int main()
     caracter1 = 'B';
     printf("%c %d", caracter, caracter1);
     return(0);
-    
-    }
+}
