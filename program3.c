@@ -12,7 +12,6 @@ int main()
     scanf("%c", &x);
     x = x + 32;
     printf("Letra minúscula:%c\n",x);
-
-   return(0);
+    return(0);
 
     }
